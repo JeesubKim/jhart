@@ -1,2 +1,2 @@
 # jhart
-JS Chart
+JS Chart lib.
